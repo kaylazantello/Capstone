@@ -1,0 +1,42 @@
+int x;
+int y;
+int z;
+
+x = 1;
+y = 2;
+z = x + y;
+
+write z;
+
+----------------------------------------------
+int TYPE
+x ID
+; SEMICOLON
+
+int TYPE
+y ID
+; SEMICOLON
+
+int TYPE
+y ID
+; SEMICOLON
+
+x ID
+= EQUALS
+1 INT
+; SEMICOLON
+
+y ID
+= EQUALS
+2 INT
+; SEMICOLON
+
+z ID
+= EQUALS
+x ID
++ PLUS
+y ID
+; SEMICOLON
+
+write COMMMAND
+z ID
